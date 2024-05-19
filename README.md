@@ -9,10 +9,13 @@ git push -u origin main
 
 ```
 
-Example. 
-http://localhost:8080/?name=John
+You need to know. 
+- http://localhost:8080/?name=John
+
+- http://localhost:8080/h2-console
 
 ---
 ### Reference 
 
 - https://kotlinlang.org/docs/jvm-create-project-with-spring-boot.html#run-the-application
+- https://www.baeldung.com/spring-boot-h2-database
