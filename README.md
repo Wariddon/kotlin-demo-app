@@ -10,8 +10,7 @@ git push -u origin main
 ```
 
 You need to know. 
-- http://localhost:8080/?name=John
-
+- http://localhost:8080/
 - http://localhost:8080/h2-console
 
 ---
